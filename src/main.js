@@ -8,6 +8,8 @@ import 'amfe-flexible'
 import Vant from 'vant'
 // 引入vant样式
 import 'vant/lib/index.css'
+// 引入导航头样式
+import '@/styles/index.css'
 
 // vue使用vant
 Vue.use(Vant)
